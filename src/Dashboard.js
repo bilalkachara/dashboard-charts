@@ -116,6 +116,7 @@ const styles = {
         display: "flex",
         gap: "20px",
         padding: "20px",
+        flexWrap: "wrap",
     },
 
     card: {
